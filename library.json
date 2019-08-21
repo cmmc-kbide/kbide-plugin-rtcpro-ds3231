@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-rtcpro-ds3231",
+  "title": "rtcpro-ds3231",
+  "keywords": "rtcpro-ds3231, esp32, esp8266, arduino",
+  "description": "Plugin rtcpro-ds3231 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rtcpro-ds3231/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rtcpro-ds3231/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
